@@ -13,7 +13,7 @@ The aim of this lab is to explore the lifecycle of a help desk ticket from start
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10 (21H2) </b>
 
 <h2>Ticket Lifecycle Stages</h2>
 
@@ -24,26 +24,7 @@ The aim of this lab is to explore the lifecycle of a help desk ticket from start
 
 <h2>Lifecycle Stages</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<p>1. In Remote Desktop, connect to the Windows VM using the public IP address found in Microsoft Azure. Use your VM login details to connect. After connection to the VM, open a browser window and go to <a href="http://localhost/osTicket/scp/login.php">http://localhost/osTicket/scp/login.php</a>. Use your osTicket Admin credentials to login to osTicket.</p>
+<img src="https://github.com/GaryKirk/post-install-config/assets/137613637/e8ae316c-1a62-4996-96b4-51c79f2ca50e" alt="Login to osTicket as Admin" width="500" length="500"/><br /><br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
