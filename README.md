@@ -7,9 +7,11 @@ The aim of this lab is to explore the lifecycle of a help desk ticket from start
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
+<ul>
+  <li>Microsoft Azure (Virtual Machines/Compute)</li>
+  <li>Remote Desktop</li>
+  <li>Internet Information Services (IIS)</li>
+</ul>
 
 <h2>Operating Systems Used </h2>
 
@@ -17,10 +19,12 @@ The aim of this lab is to explore the lifecycle of a help desk ticket from start
 
 <h2>Ticket Lifecycle Stages</h2>
 
-- Intake
-- Assignment and Communication
-- Working the Issue
-- Resolution
+<ul>
+  <li>Intake</li>
+  <li>Assignment and Communication</li>
+  <li>Working the Issue</li>
+  <li>Resolution</li>
+</ul>
 
 <h2>Lifecycle Stages</h2>
 
@@ -29,9 +33,11 @@ The aim of this lab is to explore the lifecycle of a help desk ticket from start
 
 <p>2. You can now enter the details of IT issues by clicking the 'Open New Ticket' button.  Use the information of the users and help topics that were created before. Input three different tickets, such as:</p>
 
-<ul>- The whole online banking system is down, which affects all customers</ul>
-<ul>- The accounting department is having trouble getting Adobe Reader to open documents</ul>
-<ul>- A manager is looking to find out when their team will receive new devices</ul>
+<ul>
+  <li>The whole online banking system is down, which affects all customers</li>
+  <li>The accounting department is having trouble getting Adobe Reader to open documents</li>
+  <li>A manager is looking to find out when their team will receive new devices</li>
+</ul>
 
 Next, go to <a href="http://localhost/osTicket/scp/login.php">http://localhost/osTicket/scp/login.php</a>to login to osTicket. Use the agent credentials that were setup previously. As long as the Agent's permissions have been setup correctly, you should now be able to view the tickets that were created by the user.</p> 
 <img src="https://github.com/GaryKirk/ticket-lifecycle/assets/137613637/fc6751f8-753d-4a7f-8daf-7a6a713d2f2c" alt="Input Tickets" width="500" length="500"/><br /><br />
